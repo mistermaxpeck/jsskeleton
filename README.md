@@ -1,2 +1,3 @@
 # jsskeleton
-Simple Javascript to create basic website skeleton
+Simple Javascript to create basic website skeleton.
+Also included meyerweb.com css reset file.
