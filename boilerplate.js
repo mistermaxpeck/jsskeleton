@@ -1,5 +1,3 @@
-//REQUIRE FS//
-
 const fs = require('fs');
 
 //FOLDER NAME ARGUMENT PLUS DEFAULT OF PROJECT//
